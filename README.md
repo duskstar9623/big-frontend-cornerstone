@@ -41,6 +41,8 @@
 - [表单元素](https://www.yuque.com/duskstar/big-frontend-cornerstone/ylua3158c0gh1w17)
 - [iframe 元素](https://www.yuque.com/duskstar/big-frontend-cornerstone/tkkssa4hm7gonge7)
 - [在网页中使用 Flash](https://www.yuque.com/duskstar/big-frontend-cornerstone/op65u80bd8fuoene)
+- [元素 Attribute](https://www.yuque.com/duskstar/big-frontend-cornerstone/gr1m9guahpfyknmm)
+- [HTML 常用概念](https://www.yuque.com/duskstar/big-frontend-cornerstone/arfx6mg7ugp1uu9w)
 
 ## 阶段二：技术跃迁
 
