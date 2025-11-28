@@ -44,6 +44,10 @@
 - [元素 Attribute](https://www.yuque.com/duskstar/big-frontend-cornerstone/gr1m9guahpfyknmm)
 - [HTML 常用概念](https://www.yuque.com/duskstar/big-frontend-cornerstone/arfx6mg7ugp1uu9w)
 
+**02. CSS**
+
+- [CSS 语言简介](https://www.yuque.com/duskstar/big-frontend-cornerstone/tc3p6es31ggd1myu)
+
 ## 阶段二：技术跃迁
 
 敬请期待... ... ...
