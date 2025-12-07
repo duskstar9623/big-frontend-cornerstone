@@ -49,6 +49,8 @@
 - [CSS 语言简介](https://www.yuque.com/duskstar/big-frontend-cornerstone/tc3p6es31ggd1myu)
 - [选择器基础](https://www.yuque.com/duskstar/big-frontend-cornerstone/iw5q11he55cf99zf)
 - [常见样式声明](https://www.yuque.com/duskstar/big-frontend-cornerstone/zip9me47thbargtn)
+- [层叠与继承](https://www.yuque.com/duskstar/big-frontend-cornerstone/hsyaq3hymdkz974d)
+- [CSS 属性值计算过程](https://www.yuque.com/duskstar/big-frontend-cornerstone/zxrgl3trgwo6nw9v)
 
 ## 阶段二：技术跃迁
 
